@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Custom style for Eco-Tech Solutions website */
+body {
+  font-family: "Arial", sans-serif;
+}
+
+/* Hero Section */
+.hero {
+  background: url("backgroundimg.jpg");
+  background-size: cover;
+}
